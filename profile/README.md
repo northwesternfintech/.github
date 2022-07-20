@@ -1,4 +1,4 @@
-## Hi there 👋
+## NUFT
 
 Home of the Northwestern Fintech Club Projects!  
 Note that anything contained here may not be complete.
