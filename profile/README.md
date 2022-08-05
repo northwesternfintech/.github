@@ -1,7 +1,7 @@
 ## [NUFT](https://northwesternfintech.github.io/)
 
 Home of the Northwestern Fintech Club Projects!  
-Note: Unbelievably Ambitious.  
+Unbelievably Ambitious.  
 Note that anything contained here may not be complete.
 
 <!--
