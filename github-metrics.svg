@@ -89,7 +89,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    5.97m added, 5.21m removed
+                                    5.95m added, 5.21m removed
                                 </div>
                             </section>
                             <section>
@@ -137,14 +137,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="113.96764359930926" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="113.96764359930926" y="0" width="91.09643749206539" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="205.06408109137462" y="0" width="65.36932091939045" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="270.4334020107651" y="0" width="58.31643929695112" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="328.7498413077162" y="0" width="46.12094875807036" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="374.87079006578654" y="0" width="34.19493683664713" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="409.0657269024337" y="0" width="28.969303176445933" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="438.0350300788796" y="0" width="21.964969921120375" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="113.80036716752554" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="113.80036716752554" y="0" width="90.96273035791197" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="204.7630975254375" y="0" width="65.27337485605017" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="270.03647238148767" y="0" width="58.23084512678277" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="328.2673175082704" y="0" width="46.053254564393306" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="374.32057207266377" y="0" width="34.81991379810673" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="409.1404858707705" y="0" width="28.926783374214576" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="438.0672692449851" y="0" width="21.932730755014955" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -236,6 +236,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#62b1d29</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">northwesternfintech/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#7321b09</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
@@ -305,27 +326,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">northwesternfintech/.github</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9bea2e1</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -348,7 +348,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 28 Aug 2023, 09:08:22 (timezone America/Chicago) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 28 Aug 2023, 10:09:28 (timezone America/Chicago) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
