@@ -57,7 +57,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            36 Repositories
+                            37 Repositories
                         </h2>
                         <div class="row">
                             <section>
@@ -89,7 +89,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    195k added, 107k removed
+                                    230k added, 134k removed
                                 </div>
                             </section>
                             <section>
@@ -115,7 +115,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                                     </svg>
-                                    231 Watchers
+                                    233 Watchers
                                 </div>
                             </section>
                         </div>
@@ -137,14 +137,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="140.07595696374602" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="140.07595696374602" y="0" width="95.34662068034687" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="235.42257764409288" y="0" width="71.5969279788675" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="307.0195056229604" y="0" width="58.17047716832246" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="365.1899827912829" y="0" width="45.55170327736885" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="410.74168606865175" y="0" width="40.83064597764313" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="451.57233204629483" y="0" width="5.43421883510964" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="457.0065508814045" y="0" width="2.9934491185955374" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="141.26051599707603" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="141.26051599707603" y="0" width="92.2629119278219" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="233.52342792489793" y="0" width="72.20239082655661" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="305.72581875145454" y="0" width="58.662398592215986" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="364.38821734367053" y="0" width="45.9369134359883" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="410.3251307796588" y="0" width="41.17593228928357" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="451.5010630689424" y="0" width="5.480173566740617" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="456.981236635683" y="0" width="3.0187633643169773" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -236,6 +236,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#1aa7438</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">northwesternfintech/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#ac33439</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
@@ -299,27 +320,6 @@
                                 <div class="details">
                                     <div>opened by stevenewald in <span class="repo">northwesternfintech/NUTC</span></div>
                                     <div class="comment">I'm in favor of share only but I think both is probably the best option</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">northwesternfintech/.github</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d8d3c17</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -524,7 +524,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 57.2k out of 203m repositories</span>
+                                    <span class="gh">ranked 57.3k out of 194m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">811</div>
                                     </div>
@@ -573,7 +573,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 225k out of 203m repositories</span>
+                                    <span class="gh">ranked 225k out of 194m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">56</div>
                                     </div>
@@ -624,7 +624,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 15 Apr 2024, 21:17:24 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Apr 2024, 22:11:42 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
