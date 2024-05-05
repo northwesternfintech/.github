@@ -89,7 +89,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    913k added, 157k removed
+                                    797k added, 81k removed
                                 </div>
                             </section>
                             <section>
@@ -137,14 +137,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="139.27036775400458" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="139.27036775400458" y="0" width="97.1777635542214" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="236.448131308226" y="0" width="72.23549865864892" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="308.6836299668749" y="0" width="59.16912847470858" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="367.8527584415835" y="0" width="45.60575559358782" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="413.45851403517133" y="0" width="41.199886345607084" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="454.65840038077835" y="0" width="3.162391254644356" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="457.8207916354227" y="0" width="2.1792083645772315" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="139.26877146076797" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="139.26877146076797" y="0" width="97.1766497192455" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="236.44542118001345" y="0" width="72.23994314932472" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="308.68536432933814" y="0" width="59.16845028823485" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="367.853814617573" y="0" width="45.60523286818413" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="413.45904748575714" y="0" width="41.199414119526374" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="454.6584616052835" y="0" width="3.1623550078543694" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="457.8208166131379" y="0" width="2.1791833868620887" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -203,7 +203,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 154 commits)</small>
+                    <small class="h-details">(computed from last 155 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -221,6 +221,27 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">northwesternfintech/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a03bb5f</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -294,27 +315,6 @@
                                         <div class="user">CVM0410</div>
                                         starred
                                         <span class="repo">northwesternfintech/2025QuantInternships</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">northwesternfintech/.github</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ad6791c</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
                                 </div>
                             </section>
@@ -620,7 +620,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 5 May 2024, 01:12:11 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 May 2024, 02:08:32 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
