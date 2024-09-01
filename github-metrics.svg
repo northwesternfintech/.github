@@ -89,7 +89,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    842k added, 95.2k removed
+                                    341k added, 272k removed
                                 </div>
                             </section>
                             <section>
@@ -137,14 +137,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="125.87506422129904" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="125.87506422129904" y="0" width="110.57182598267289" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="236.44689020397192" y="0" width="105.46170879011481" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="341.90859899408673" y="0" width="45.7199213425419" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="387.62852033662864" y="0" width="35.08615516422785" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="422.7146755008565" y="0" width="31.88187086680537" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="454.59654636766186" y="0" width="3.726909919388636" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.32345628705053" y="0" width="1.6765437129494736" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="125.99874381197318" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="125.99874381197318" y="0" width="110.68046924940907" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="236.67921306138223" y="0" width="105.11335424502356" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="341.7925673064058" y="0" width="45.76484383129915" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="387.55741113770495" y="0" width="35.1206293576345" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="422.6780404953394" y="0" width="31.913196664040317" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="454.5912371593798" y="0" width="3.7305718257094864" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.3218089850892" y="0" width="1.6781910149107289" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -221,6 +221,27 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">northwesternfintech/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4610614</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -308,27 +329,6 @@ Add arbitrary order cancellation</div>
                                     <div class="commit">
                                         <div class="sha">#adac582</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">stevenewald</div>
-                                        pushed 1 commit in
-                                        <span class="repo">northwesternfintech/NUTC</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">cancellation</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#af4e5bf</div>
-                                        <div class="message">Cleaning up tests</div>
                                     </div>
                                 </div>
                             </section>
@@ -573,7 +573,7 @@ Add arbitrary order cancellation</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 42.8k out of 218m repositories</span>
+                                    <span class="gh">ranked 42.8k out of 214m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1171</div>
                                     </div>
@@ -622,7 +622,7 @@ Add arbitrary order cancellation</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 166k out of 218m repositories</span>
+                                    <span class="gh">ranked 166k out of 214m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">78</div>
                                     </div>
@@ -634,7 +634,7 @@ Add arbitrary order cancellation</div>
                 </div>
             </section>
             <footer>
-                <span>Last updated 31 Aug 2024, 21:21:26 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Aug 2024, 22:17:49 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
