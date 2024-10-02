@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1316" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1066" class="">
     <defs>
         <style/>
     </defs>
@@ -89,7 +89,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    351k added, 271k removed
+                                    297k added, 182k removed
                                 </div>
                             </section>
                             <section>
@@ -236,6 +236,48 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#29a5a3e</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">northwesternfintech/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#684f022</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">northwesternfintech/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#e3ea2dc</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
@@ -275,120 +317,6 @@
                                         <span class="repo">northwesternfintech/2025QuantInternships</span>
                                         to
                                         <span class="repo">starlinskii/2025QuantInternships</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">northwesternfintech/.github</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f4546ed</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">stevenewald</div>
-                                        pushed 16 commits in
-                                        <span class="repo">northwesternfintech/NUTC</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">cpp-web</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1e723f0</div>
-                                        <div class="message">add cpp submission</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e90d8ad</div>
-                                        <div class="message">Merge pull request #273 from northwesternfintech/float
-
-Switched from doubles to floats in templates</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67a57f6</div>
-                                        <div class="message">Switched from doubles to floats in templates</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a1cf14d</div>
-                                        <div class="message">Merge pull request #272 from northwesternfintech/enum-ticker
-
-Converted ticker to enum in C++ and Python templates</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9985559</div>
-                                        <div class="message">Converted ticker to enum in C++ and Python templates</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ad8608</div>
-                                        <div class="message">Merge pull request #271 from northwesternfintech/enum-side
-
-Convert side to enum in templates</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ef49cb8</div>
-                                        <div class="message">Converted side to enum in Python template</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3bd74cb</div>
-                                        <div class="message">Converted side to enum in C++ template</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#23ada9b</div>
-                                        <div class="message">Merge pull request #268 from northwesternfintech/jhileman-cpp-template-submission
-
-C++ template submission page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4483b8d</div>
-                                        <div class="message">Added template.hpp to web/public and improved ui</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce7cab4</div>
-                                        <div class="message">Merge pull request #266 from northwesternfintech/teams
-
-Add team selection to website</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#97dc911</div>
-                                        <div class="message">Merge pull request #267 from northwesternfintech/updates
-
-Changed hashmap to hashtable within generic trader</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4b7278</div>
-                                        <div class="message">switched to vertcial stack and made design additions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a033fd</div>
-                                        <div class="message">Changed hashmap to hashtable within generic trader</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ae5986d</div>
-                                        <div class="message">Add teams to web app</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aa255a9</div>
-                                        <div class="message">added cpp template strings</div>
                                     </div>
                                 </div>
                             </section>
@@ -633,7 +561,7 @@ Changed hashmap to hashtable within generic trader</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 41.2k out of 211m repositories</span>
+                                    <span class="gh">ranked 41.2k out of 213m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1233</div>
                                     </div>
@@ -682,7 +610,7 @@ Changed hashmap to hashtable within generic trader</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 149k out of 211m repositories</span>
+                                    <span class="gh">ranked 149k out of 213m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">87</div>
                                     </div>
@@ -694,7 +622,7 @@ Changed hashmap to hashtable within generic trader</div>
                 </div>
             </section>
             <footer>
-                <span>Last updated 1 Oct 2024, 22:16:33 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Oct 2024, 23:14:05 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
